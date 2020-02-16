@@ -94,7 +94,7 @@
 		android:onClick="clickForgot"/>
 
 	<Button
-		android:layout_width="wrap_content"
+		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_marginTop="80dp"
 		android:layout_marginRight="24dp"
